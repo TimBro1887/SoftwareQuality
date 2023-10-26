@@ -3,7 +3,7 @@ Repository für die Übungen im Modul Software Quality
 
 # Introduction
 
-The "SoftwareQuality" project is a simple Java program that demonstrates the use of the four fundamental math operators in Java. This project serves as an educational resource for those learning Java programming and provides a clear example of how to perform basic arithmetic operations in Java. In addition Junit testing is implemented as well, to gain basic knowlegde on how to do Junit testing.
+The "SoftwareQuality" project is a simple Java program that demonstrates the use of the four fundamental math operators in Java. This project serves as an educational resource for those learning Java programming and provides a clear example of how to perform basic arithmetic operations in Java. In addition Junit testing is implemented as well, to gain basic knowlegde on how to do Junit testing. The java files can be found in the Data folder
 
 # Prerequisites
 
